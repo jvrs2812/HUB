@@ -5,8 +5,7 @@
 
 </h4>
 ### Features
-<br>- [ ] Listagem de Produtos
-<br>- [ ] Cadastro de Produtos
-<br>- [ ] Listagem de Clientes
-<br>- [ ] Listagem de Pedidos
-<br>- [ ] Listagem de Peguntas
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
