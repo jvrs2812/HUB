@@ -5,13 +5,16 @@
 
 </h4>
 
-### Features
-- [x] Listagem de Produtos
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+### Integração com o Mercado Livre
+- [ ] Listagem de Produtos
+- [ ] Listagem de cliente
+- [ ] Listagem de produtos
+- [ ] Listagem de Pedidos
+- [ ] Cadastro de Produtos
 
 
 <br>
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
